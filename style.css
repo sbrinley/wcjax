@@ -1,4 +1,4 @@
-/* Remote CSS from https://api.github.com/repos/cameronjonesweb/wcbne17/contents/dist/style.css */
+/* Remote CSS revised from https://api.github.com/repos/cameronjonesweb/wcbne17/contents/dist/style.css */
 *, :before, :after {
 	position: relative;
 	background-repeat: no-repeat;
@@ -894,7 +894,7 @@ body.single-wcb_speaker .entry-header,
 body.search .page-header,
 body.error404 .entry-header {
 	padding: 50% 0 4em;
-	background-image: url('https://2017.brisbane.wordcamp.org/files/2017/03/Story-Bridge-Ken-Ware-Photos-WordCamp-Brisbane-2017.jpg');
+	background-image: url('https://2018.jacksonville.wordcamp.org/files/2017/11/StJohnsRiverNight-cropped.jpg');
 	background-size: cover;
 	background-position: center;
 	color: #fff;
@@ -940,7 +940,7 @@ body.error404 .entry-header:before {
 body.blog #before-content-widgets,
 body.single:not(.single-post):not(.single-wcb_speaker) #before-content-widgets {
 	padding: 50% 0 4em;
-	background-image: url('https://2017.brisbane.wordcamp.org/files/2017/03/Story-Bridge-Ken-Ware-Photos-WordCamp-Brisbane-2017.jpg');
+	background-image: url('https://2018.jacksonville.wordcamp.org/files/2017/11/StJohnsRiverNight-cropped.jpg');
 	background-size: cover;
 	background-position: center;
 	color: #fff;
