@@ -1149,8 +1149,8 @@ body.single-wcb_sponsor #before-content-widgets:after {
 	background-size: contain;
 	content: "";
 	display: inline-block;
-	height: .66em;
-	max-width: 100%;
+	height: 150px;
+	max-width: auto;
 	text-indent: -90210px;
 }
 
