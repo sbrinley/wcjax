@@ -1150,13 +1150,13 @@ body.single-wcb_sponsor #before-content-widgets:after {
 	content: "";
 	display: inline-block;
 	height: 150px;
-	max-width: auto;
+	max-width: 100%;
 	text-indent: -90210px;
 }
 
 @media (min-width: 617px) {
 	#masthead .site-title a {
-		background-size: 171px 36px;
+		background-size: 100%;
 		width: 171px;
 	}
 }
