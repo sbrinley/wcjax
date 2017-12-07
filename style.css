@@ -1224,11 +1224,11 @@ pre code {
 
 /* hide animation spotlight on header */
 .home .site-header .site-branding:before {
-	display: none;
+	display: none!important;
 }
 
 .home .site-header .site-branding:after {
-	display: none;
+	display: none!important;
 }
 
 /*------*/
