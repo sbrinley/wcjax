@@ -1221,7 +1221,7 @@ pre code {
 	-webkit-perspective: 1000px;
 }
 
-/* hide animation spotlight on header */
+/* hide animation spotlight on header
 .home .site-header .site-branding:before {
 	display: none;
 }
