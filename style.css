@@ -1453,7 +1453,7 @@ pre code {
 
 .menu-item a.focus,.menu-item a:active,.menu-item a:focus,.menu-item a:hover {
 	color: rgba(29,36,42,.9);
-	background-color: #c96;
+	background-color: rgba(242,101,38,.75);
 }
 
 @media (min-width:48em) {
