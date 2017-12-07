@@ -135,13 +135,13 @@ a.more-link:hover {
 }
 
 /*----------------------------------*/
-/* Header
+/* Header */
 .custom-header {
-	display: none !important;
+	display: block;
 }
 
 #post-88 header.entry-header {
-	display: none;
+	display: block;
 }
 
 .entry-header {
