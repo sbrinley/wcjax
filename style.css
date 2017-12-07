@@ -1121,7 +1121,7 @@ pre code {
 
 @media (min-width:48em) {
 	.home .site-header .site-branding {
-		padding: 10.5rem 3rem;
+		padding: 30rem 0 0 0;
 	}
 }
 
@@ -1147,11 +1147,10 @@ pre code {
 
 .site-title a:before {
 	display: block;
-	width: 180px;
-	height: 180px;
+	width: 400px;
+	height: 250px;
 	margin-left: auto;
 	margin-right: auto;
-	margin-bottom: 1rem;
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
 	background-image: url('https://2018.jacksonville.wordcamp.org/files/2017/12/roughlogo-orange-transparent.png');
@@ -1367,15 +1366,14 @@ pre code {
 
 .main-navigation {
 	position: relative;
-	background-color: rgba(0,0,0,.2);
 }
 
 .main-navigation:before {
 	position: absolute;
-	top: 0;
+	top: -82px;
 	left: 0;
 	right: 0;
-	height: .125rem;
+	height: .25rem;
 	background-color: #F26526;
 	content: "";
 }
@@ -1393,7 +1391,6 @@ pre code {
 .menu {
 	list-style: none;
 	margin: 0;
-	padding: 50px 0 0 0;
 	text-align: center;
 }
 
