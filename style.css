@@ -1175,13 +1175,13 @@ pre code {
 	background-repeat: no-repeat;
 	background-position: 50% 0;
 	background-size: fixed;
-	background-image: url('https://upload.wikimedia.org/wikipedia/commons/f/fc/Moonrise_over_kuala_lumpur.jpg');
+	background-image: url('https://2018.jacksonville.wordcamp.org/files/2017/12/cowscape_small.jpg');
 	transition: all .15s ease;
 }
 
 @media (min-width:48em) {
 	.site-header {
-		background-image: url('https://upload.wikimedia.org/wikipedia/commons/f/fc/Moonrise_over_kuala_lumpur.jpg');
+		background-image: url('https://2018.jacksonville.wordcamp.org/files/2017/12/cowscape_small.jpg');
 		background-position: 50% 50%;
 		background-size: cover;
 	}
