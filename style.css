@@ -148,6 +148,11 @@ a.more-link:hover {
 	margin-bottom: 0 !important;
 }
 
+@media screen and (min-width: 48em)
+.has-header-image.twentyseventeen-front-page .custom-header {
+	display: block!important;
+}
+
 /*----------------------------------*/
 /*Top section*/
 #post-88 h2.entry-title {
