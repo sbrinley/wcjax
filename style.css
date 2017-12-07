@@ -1188,7 +1188,7 @@ pre code {
 @media (min-width:48em) {
 	.site-header {
 		background-image: url('https://2018.jacksonville.wordcamp.org/files/2017/12/cowscape_small.jpg');
-		background-position: 50% 50%;
+		background-position: 50% 100%;
 		background-size: cover;
 	}
 }
