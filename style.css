@@ -141,7 +141,7 @@ a.more-link:hover {
 }
 
 #post-88 header.entry-header {
-	display: block;
+	display: block !important;
 }
 
 .entry-header {
