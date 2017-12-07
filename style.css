@@ -1159,12 +1159,6 @@ pre code {
 	content: "";
 }
 
-@media (min-width: 48em) {
-	.site-title a:before {
-		margin-bottom: -3.75rem;
-	}
-}
-
 .site-description {
 	margin: 0;
 	margin-top: .5rem;
