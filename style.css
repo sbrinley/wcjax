@@ -137,11 +137,11 @@ a.more-link:hover {
 /*----------------------------------*/
 /* Header */
 .custom-header {
-	display: block;
+	display: block !important;
 }
 
 #post-88 header.entry-header {
-	display: block;
+	display: block !important;
 }
 
 .entry-header {
