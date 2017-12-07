@@ -1647,7 +1647,7 @@ pre code {
 }
 
 #content {
-	max-width: 50rem;
+	max-width: 75vw;
 	margin-left: auto;
 	margin-right: auto;
 }
