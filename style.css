@@ -1452,7 +1452,7 @@ pre code {
 }
 
 .menu-item a.focus,.menu-item a:active,.menu-item a:focus,.menu-item a:hover {
-	color: rgba(29,36,42,.9);
+	color: #ffffff;
 	background-color: #919F6A;
 }
 
@@ -1469,7 +1469,7 @@ pre code {
 }
 
 .current-menu-item>a {
-	color: rgba(29,36,42,.9);
+	color: #ffffff;
 	background-color: #F26526;
 }
 
