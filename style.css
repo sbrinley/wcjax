@@ -1504,7 +1504,7 @@ pre code {
 
 	.menu-item-has-children.focus>a,.menu-item-has-children:hover>a {
 		color: rgba(29,36,42,.9);
-		background-color: #c96;
+		background-color: rgba(242,101,38,.75);
 	}
 
 	.menu-item-has-children.focus>a:after,.menu-item-has-children:hover>a:after {
@@ -1553,7 +1553,7 @@ pre code {
 		left: -999em;
 		z-index: 310;
 		min-width: 16.25rem;
-		background-color: #c96;
+		background-color: #rgba(242,101,38,.75);
 	}
 
 	.sub-menu .menu-item {
