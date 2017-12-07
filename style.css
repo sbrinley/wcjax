@@ -1105,7 +1105,7 @@ pre code {
 
 @media (min-width:48em) {
 	.site-header .site-branding {
-		padding: 4.5rem 3rem;
+		padding: 5rem 3rem 0rem;
 	}
 }
 
@@ -1642,7 +1642,7 @@ pre code {
 
 @media (min-width:48em) {
 	#primary {
-		padding: 5rem 3rem 0rem;
+		padding: 4.5rem 3rem;
 	}
 }
 
