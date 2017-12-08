@@ -1160,7 +1160,7 @@ pre code {
 	height: 250px;
 	margin-left: auto;
 	margin-right: auto;
-	margin-bottom: 1rem;
+	margin-bottom: .9rem;
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
 	background-image: url('https://2018.jacksonville.wordcamp.org/files/2017/12/orangelogo_transparent.png');
@@ -1377,9 +1377,12 @@ pre code {
 
 .main-navigation {
 	position: relative;
+	padding-top: 6rem;
+	border-top: .25rem;
+	border-color: #F26526;
 }
 
-.main-navigation:before {
+/* .main-navigation:before {
 	position: absolute;
 	top: -6rem;
 	left: 0;
@@ -1387,7 +1390,7 @@ pre code {
 	height: .25rem;
 	background-color: #F26526;
 	content: "";
-}
+} */
 
 @media (max-width:37.4375em) {
 	.main-navigation {
