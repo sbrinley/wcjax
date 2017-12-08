@@ -1378,8 +1378,7 @@ pre code {
 .main-navigation {
 	position: relative;
 	padding-top: 6rem;
-	border-top: .25rem;
-	border-color: #F26526;
+	border-top: solid .25rem #F26526;
 }
 
 /* .main-navigation:before {
