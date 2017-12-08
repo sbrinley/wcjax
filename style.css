@@ -1554,7 +1554,6 @@ pre code {
 		background-repeat: no-repeat;
 		background-size: 12px;
 		background-position: 1rem 50%;
-		color: #ffffff;
 	}
 
 	.sub-menu a.focus,.sub-menu a:focus,.sub-menu a:hover {
@@ -1581,7 +1580,7 @@ pre code {
 
 	.sub-menu a {
 		padding: .625rem 1rem;
-		color: rgba(29,36,42,.75);
+		color: #ffffff;
 	}
 }
 
