@@ -1545,7 +1545,7 @@ pre code {
 	text-transform: none;
 	font-weight: 400;
 	font-family: ingra, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
-	font-color: #ffffff;
+	color: #ffffff;
 }
 
 @media (max-width:37.4375em) {
