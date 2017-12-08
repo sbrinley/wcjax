@@ -1545,7 +1545,6 @@ pre code {
 	text-transform: none;
 	font-weight: 400;
 	font-family: ingra, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
-	color: #ffffff;
 }
 
 @media (max-width:37.4375em) {
@@ -1555,6 +1554,7 @@ pre code {
 		background-repeat: no-repeat;
 		background-size: 12px;
 		background-position: 1rem 50%;
+		color: #ffffff;
 	}
 
 	.sub-menu a.focus,.sub-menu a:focus,.sub-menu a:hover {
