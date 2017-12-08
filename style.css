@@ -1396,6 +1396,8 @@ pre code {
 @media (max-width:37.4375em) {
 	.main-navigation {
 		background-color: #2d282d;
+		padding-top: 4rem;
+		margin-top: -130px;
 	}
 
 	.main-navigation.toggled-on .menu {
