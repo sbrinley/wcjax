@@ -1379,6 +1379,8 @@ pre code {
 	position: relative;
 	padding-top: 6rem;
 	border-top: solid .25rem #F26526;
+	z-index: 0;
+	margin-top: -95px;
 }
 
 /* .main-navigation:before {
