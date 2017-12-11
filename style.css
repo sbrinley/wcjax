@@ -1402,6 +1402,7 @@ pre code {
 
 	.main-navigation.toggled-on .menu {
 		display: block;
+		z-index: 1000;
 	}
 }
 
@@ -1423,6 +1424,7 @@ pre code {
 @media (min-width:37.5em) {
 	.menu {
 		display: block;
+		z-index: 1000;
 	}
 }
 
