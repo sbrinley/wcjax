@@ -3005,11 +3005,13 @@ div.googlemaps iframe {
 	background-color: #fff !important;
 }
 
-.jetpack_subscription_widget {
+.jetpack_subscription_widget,
+.widget_wcorg_mailchimp_wiget {
 	text-align: center;
 }
 
-.jetpack_subscription_widget:before {
+.jetpack_subscription_widget:before,
+.widget_wcorg_mailchimp_wiget:before {
 	background-image: url('https://2017.europe.wordcamp.org/files/2017/01/background-pattern-01.png');
 	background-color: #2d282d !important;
 	background-size: 120px;
@@ -3017,36 +3019,43 @@ div.googlemaps iframe {
 	background-position: 50% 0;
 }
 
-.jetpack_subscription_widget .widget-title {
+.jetpack_subscription_widget .widget-title,
+.widget_wcorg_mailchimp_wiget .widget-title {
 	color: #6f943e;
 }
 
-.jetpack_subscription_widget p {
+.jetpack_subscription_widget p,
+.widget_wcorg_mailchimp_wiget p {
 	margin: 0;
 	color: hsla(0,0%,100%,.8);
 }
 
-.jetpack_subscription_widget input[type=email] {
+.jetpack_subscription_widget input[type=email],
+.widget_wcorg_mailchimp_wiget input[type=email]{
 	width: 100% !important;
 }
 
-.jetpack_subscription_widget input[type=submit] {
+.jetpack_subscription_widget input[type=submit]
+.widget_wcorg_mailchimp_wiget input[type=submit] {
 	width: 100%;
 	color: rgba(29,36,42,.75);
 	text-transform: uppercase;
 	background-color: #6f943e;
 }
 
-.jetpack_subscription_widget input[type=submit]:active,.jetpack_subscription_widget input[type=submit]:focus,.jetpack_subscription_widget input[type=submit]:hover {
+.jetpack_subscription_widget input[type=submit]:active,.jetpack_subscription_widget input[type=submit]:focus,.jetpack_subscription_widget input[type=submit]:hover,
+.widget_wcorg_mailchimp_wiget input[type=submit]:active, .widget_wcorg_mailchimp_wiget input[type=submit]:focus, .widget_wcorg_mailchimp_wiget input[type=submit]:hover {
 	color: rgba(29,36,42,.9);
 	background-color: #F26526;
 }
 
-.jetpack_subscription_widget #subscribe-text {
+.jetpack_subscription_widget #subscribe-text,
+.widget_wcorg_mailchimp_wiget #subscribe-text{
 	margin-bottom: 1.5rem;
 }
 
-.jetpack_subscription_widget #subscribe-email,.jetpack_subscription_widget #subscribe-submit {
+.jetpack_subscription_widget #subscribe-email,.jetpack_subscription_widget #subscribe-submit,
+.widget_wcorg_mailchimp_wiget #subscribe-email,.widget_wcorg_mailchimp_wiget #subscribe-submit{
 	display: inline-block;
 	width: 12.5rem;
 	margin: .25rem;
@@ -3054,7 +3063,8 @@ div.googlemaps iframe {
 }
 
 @media (min-width:37.5em) {
-	.jetpack_subscription_widget #subscribe-email {
+	.jetpack_subscription_widget #subscribe-email,
+	.widget_wcorg_mailchimp_wiget #subscribe-email{
 		width: 25rem;
 	}
 }
