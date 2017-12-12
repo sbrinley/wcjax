@@ -3005,6 +3005,16 @@ div.googlemaps iframe {
 	background-color: #fff !important;
 }
 
+.widget_wcorg_mailchimp_wiget label {
+	color: hsla(0,0%,100%,.8);
+	text-align: left;
+}
+
+.widget_wcorg_mailchimp_wiget input[type="text"] {
+	margin-bottom: 2rem;
+}
+
+
 .jetpack_subscription_widget,
 .widget_wcorg_mailchimp_wiget {
 	text-align: center;
