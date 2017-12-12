@@ -1099,7 +1099,7 @@ pre code {
 
 @media (min-width:37.5em) {
 	.site-header .site-branding {
-		padding: 3rem 2rem;
+		padding: 3rem 2rem 0rem 2rem;
 	}
 }
 
@@ -1115,7 +1115,7 @@ pre code {
 
 @media (min-width:37.5em) {
 	.home .site-header .site-branding {
-		padding: 7rem 2rem;
+		padding: 3rem 2rem 0rem 2rem;
 	}
 }
 
