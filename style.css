@@ -3984,7 +3984,7 @@ section#wcb_sponsors-3:after{
 }
 
 .sponsor-level.bronze a.sponsor-logo:nth-child(3n+3) {
-	margin-left: 0;
+	margin-right: 0;
 	clear: right;
 }
 
