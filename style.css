@@ -3952,20 +3952,24 @@ section#wcb_sponsors-3:after{
 	font-size: .75em;
 }
 
-.sponsor-level.gold img {
+.sponsor-level-title {
+	clear: both;
+}
+
+/*.sponsor-level.gold img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-}
+} */
 
-.sponsor-level.silver img:nth-child(odd) {
+.sponsor-level.gold img:nth-child(odd) {
 	max-width: 45%!important;
 	display: block;
 	float: left;
 	margin-right: 10%;
 }
 
-.sponsor-level.silver img:nth-child(even) {
+.sponsor-level.gold img:nth-child(even) {
 	max-width: 45%!important;
 	display: block;
 	float: left;
