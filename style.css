@@ -3983,7 +3983,7 @@ section#wcb_sponsors-3:after{
 	margin-right: 5%;
 }
 
-.sponsor-level.bronze a.sponsor-logo:nth-child(3n+3) {
+.sponsor-level.bronze a.sponsor-logo:nth-child(3n+4) {
 	margin-right: 0;
 	clear: right;
 }
