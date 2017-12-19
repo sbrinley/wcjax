@@ -3945,7 +3945,26 @@ td.tix-column-remaining {
 	display: none !important;
 }
 
+/* sponsor section tweaks */
+
 section#wcb_sponsors-3:after{
 	content: "To see a list of our sponsors, please turn off your ad blocker.";
 	font-size: .75em;
 }
+
+.sponsor-level.gold img {
+	max-height: 100px;
+}
+
+.sponsor-level.silver img {
+	max-height: 75px;
+}
+
+.sponsor-level.bronze img {
+	max-height: 50px;
+}
+
+.sponsor-level.micro img {
+	max-height: 25px;
+}
+
