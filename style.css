@@ -3953,18 +3953,18 @@ section#wcb_sponsors-3:after{
 }
 
 .sponsor-level.gold img {
-	max-height: 100px;
+	max-width: 75%!important;
 }
 
 .sponsor-level.silver img {
-	max-height: 75px;
+	max-width: 50%!important;
 }
 
 .sponsor-level.bronze img {
-	max-height: 50px;
+	max-width: 25%!important;
 }
 
 .sponsor-level.micro img {
-	max-height: 25px;
+	max-width: 10%!important;
 }
 
