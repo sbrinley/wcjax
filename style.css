@@ -3950,6 +3950,8 @@ td.tix-column-remaining {
 section#wcb_sponsors-3:after{
 	content: "To see a list of our sponsors, please turn off your ad blocker.";
 	font-size: .75em;
+	display: block;
+	clear: both;
 }
 
 .sponsor-level-title {
@@ -3962,14 +3964,14 @@ section#wcb_sponsors-3:after{
 	margin-right: auto;
 }
 
-.sponsor-level.silver a.sponsor-logo:nth-child(odd) {
+.sponsor-level.silver a.sponsor-logo:nth-child(even) {
 	max-width: 45%/*!important*/;
 	display: block;
 	float: left;
 	margin-right: 10%;
 }
 
-.sponsor-level.silver a.sponsor-logo:nth-child(even) {
+.sponsor-level.silver a.sponsor-logo:nth-child(odd) {
 	max-width: 45%/*!important*/;
 	display: block;
 	float: left;
