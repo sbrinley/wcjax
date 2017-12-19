@@ -3953,11 +3953,24 @@ section#wcb_sponsors-3:after{
 }
 
 .sponsor-level.gold img {
-	max-width: 75%!important;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
-.sponsor-level.silver img {
-	max-width: 50%!important;
+.sponsor-level.silver img:nth-child(odd) {
+	max-width: 45%!important;
+	display: block;
+	float: left;
+	margin-right: 5%;
+}
+
+.sponsor-level.silver img:nth-child(even) {
+	max-width: 45%!important;
+	display: block;
+	float: right;
+	margin-left: 5%;
+	clear: right;
 }
 
 .sponsor-level.bronze img {
