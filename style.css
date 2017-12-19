@@ -3962,14 +3962,13 @@ section#wcb_sponsors-3:after{
 	max-width: 45%!important;
 	display: block;
 	float: left;
-	margin-right: 5%;
+	margin-right: 10%;
 }
 
 .sponsor-level.silver img:nth-child(even) {
 	max-width: 45%!important;
 	display: block;
-	float: right;
-	margin-left: 5%;
+	float: left;
 	clear: right;
 }
 
