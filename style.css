@@ -3952,19 +3952,19 @@ section#wcb_sponsors-3:after{
 	font-size: .75em;
 }
 
-.sponsor-level.gold img {
+.sponsor-level.sponsor-logo.gold img {
 	max-height: 100px;
 }
 
-.sponsor-level.silver img {
+.sponsor-level.sponsor-logo.silver img {
 	max-height: 75px;
 }
 
-.sponsor-level.bronze img {
+.sponsor-level.sponsor-logo.bronze img {
 	max-height: 50px;
 }
 
-.sponsor-level.micro img {
+.sponsor-level.sponsor-logo.micro img {
 	max-height: 25px;
 }
 
