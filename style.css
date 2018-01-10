@@ -3958,39 +3958,39 @@ section#wcb_sponsors-3:after{
 	clear: both;
 }
 
-.sponsor-level.gold a.sponsor-logo img {
+.sponsor-level.prime a.sponsor-logo img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-.sponsor-level.silver a.sponsor-logo:nth-child(even) {
+.sponsor-level.choice a.sponsor-logo:nth-child(even) {
 	max-width: 45%/*!important*/;
 	display: block;
 	float: left;
 	margin-right: 10%;
 }
 
-.sponsor-level.silver a.sponsor-logo:nth-child(odd) {
+.sponsor-level.choice a.sponsor-logo:nth-child(odd) {
 	max-width: 45%/*!important*/;
 	display: block;
 	float: left;
 	clear: right;
 }
 
-.sponsor-level.bronze a.sponsor-logo {
+.sponsor-level.select a.sponsor-logo {
 	max-width: 30%/*!important*/;
 	display: block;
 	float: left;
 	margin-right: 5%;
 }
 
-.sponsor-level.bronze a.sponsor-logo:nth-child(3n+4) {
+.sponsor-level.select a.sponsor-logo:nth-child(3n+4) {
 	margin-right: 0;
 	clear: right;
 }
 
-.sponsor-level.micro img {
+.sponsor-level.standard img {
 	max-width: 10%!important;
 }
 
