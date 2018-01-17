@@ -4009,7 +4009,11 @@ section#wcb_sponsors-3:after{
 	margin-bottom: 1rem;
 }
 
-#content-widget-1 {
-	width: 30%
-	float: right;
+@media (min-width: 48em) {
+	div#content-widgets {
+		width: 30%;
+		float: right;
+		padding-left: 5%;
+		padding-right: 5;
+	}
 }
