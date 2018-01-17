@@ -4007,15 +4007,20 @@ section#wcb_sponsors-3:after{
 
 #content-widget-1 .widget_wcorg_mailchimp_wiget input[type="text"] {
 	margin-bottom: 1rem;
+	font-size: .75em;
+	padding: 0;
 }
 
 @media (min-width: 48em) {
 	div#content-widgets {
-		width: 30%;
+		width: 35%;
 		float: right;
 		padding-left: 5%;
 		padding-right: 5%;
 		margin-top: 1em;
 		border: solid 4px #ff9505;
+	}
+	#content-widget-1 .widget_wcorg_mailchimp_wiget {
+		padding: 1rem 0rem;
 	}
 }
