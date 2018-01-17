@@ -4014,6 +4014,8 @@ section#wcb_sponsors-3:after{
 		width: 30%;
 		float: right;
 		padding-left: 5%;
-		padding-right: 5;
+		padding-right: 5%;
+		margin-top: 1em;
+		border: solid 4px #ff9505;
 	}
 }
