@@ -4009,4 +4009,7 @@ section#wcb_sponsors-3:after{
 	margin-bottom: 1rem;
 }
 
-
+#content-widget-1 {
+	width: 30%
+	float: right;
+}
