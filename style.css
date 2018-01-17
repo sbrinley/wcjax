@@ -3994,3 +3994,18 @@ section#wcb_sponsors-3:after{
 	max-width: 10%!important;
 }
 
+/* Mailchimp Homepage Top List */
+
+#content-widget-1 .widget_wcorg_mailchimp_wiget h2 {
+	font-size: 1em;
+}
+
+#content-widget-1 .widget_wcorg_mailchimp_wiget label,
+#content-widget-1 .widget_wcorg_mailchimp_wiget input[type="submit"] {
+	font-size: .75em;
+}
+
+#content-widget-1 .widget_wcorg_mailchimp_wiget input[type="text"] {
+	margin-bottom: 1rem;
+}
+
