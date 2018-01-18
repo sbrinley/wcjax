@@ -4047,6 +4047,8 @@ section#wcb_sponsors-3:after{
 	}
 	#header-widget-1 .widget_wcorg_mailchimp_wiget h2 {
 		font-size: 1em;
+		color: #ff9505
+
 	}
 
 	#header-widget-1 .widget_wcorg_mailchimp_wiget label,
@@ -4057,6 +4059,6 @@ section#wcb_sponsors-3:after{
 	#header-widget-1 .widget_wcorg_mailchimp_wiget input[type="text"] {
 		margin-bottom: 1rem;
 		font-size: .75em;
-		padding: 0;
+		margin-bottom: 0;
 	}
 }
