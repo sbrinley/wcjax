@@ -4022,5 +4022,10 @@ section#wcb_sponsors-3:after{
 	}
 	#content-widget-1 .widget_wcorg_mailchimp_wiget {
 		padding: 1rem 0rem;
+		position: relative;
+	}
+	#content-widget-1 .widget_wcorg_mailchimp_wiget:before {
+		margin-left: -21%;
+		margin-right: -21%;
 	}
 }
