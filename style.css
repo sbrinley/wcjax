@@ -4146,3 +4146,12 @@ main {
 	border-bottom: 6px double #F26526;
 	padding-bottom: 1em;
 }
+
+/** fixing z-indexes on header **/
+.site-header>.custom-header {
+	z-index: 202;
+}
+
+.main-navigation {
+	z-index: 201;
+}
