@@ -4087,10 +4087,12 @@ section#wcb_sponsors-3:after{
 		margin-top: 2rem;
 		border-top: 6px double #ff9505;
 		padding: 1rem 0rem;
+		padding-left: 5%;
+		padding-right: 5%;
 	}
 	#header-widget-1 .widget_wcorg_mailchimp_wiget h2 {
 		font-size: 1em;
-		color: #ff9505
+		color: #ff9505;
 		margin-bottom: 0;
 
 	}
