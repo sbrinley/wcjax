@@ -4030,4 +4030,8 @@ section#wcb_sponsors-3:after{
 		left: 0;
 		right: 0;
 	}
+	#content-widget-1 .content-widgets-block:before {
+		top: 0;
+		bottom: 0;
+	}
 }
