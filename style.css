@@ -4082,7 +4082,7 @@ section#wcb_sponsors-3:after{
 	}
 }
 
-@media (min-width: 37.5em) {
+/** smallest sizes **/
 	#header-widget-1 .widget_wcorg_mailchimp_wiget {
 		margin-top: 2rem;
 		border-top: 6px double #ff9505;
@@ -4123,4 +4123,3 @@ section#wcb_sponsors-3:after{
 		width: 30%;
 		margin-right: 2em;
 	} */
-}
