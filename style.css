@@ -4019,6 +4019,8 @@ section#wcb_sponsors-3:after{
 		padding-right: 5%;
 		margin-top: 1em;
 		border: solid 4px #ff9505;
+		margin-left: 2em;
+		margin-bottom: 2em;
 	}
 	#content-widget-1 .widget_wcorg_mailchimp_wiget {
 		padding: 1rem 0rem;
@@ -4033,5 +4035,6 @@ section#wcb_sponsors-3:after{
 	#content-widget-1 .content-widgets-block:before {
 		top: 0;
 		bottom: 0;
+		position: relative;
 	}
 }
