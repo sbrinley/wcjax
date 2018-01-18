@@ -4038,3 +4038,25 @@ section#wcb_sponsors-3:after{
 		position: relative;
 	}
 }
+
+@media (min-width: 48em) {
+	#header-widget-1 .widget_wcorg_mailchimp_wiget {
+		margin-top: 2rem;
+		border-top: 6px double #ff9505;
+		padding: 1rem 0rem;
+	}
+	#header-widget-1 .widget_wcorg_mailchimp_wiget h2 {
+		font-size: 1em;
+	}
+
+	#header-widget-1 .widget_wcorg_mailchimp_wiget label,
+	#header-widget-1 .widget_wcorg_mailchimp_wiget input[type="submit"] {
+		font-size: .75em;
+	}
+
+	#header-widget-1 .widget_wcorg_mailchimp_wiget input[type="text"] {
+		margin-bottom: 1rem;
+		font-size: .75em;
+		padding: 0;
+	}
+}
