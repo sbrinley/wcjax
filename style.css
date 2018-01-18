@@ -1396,7 +1396,7 @@ pre code {
 @media (max-width:37.4375em) {
 	.main-navigation {
 		background-color: #2d282d;
-		padding-top: 3rem;
+		padding-top: 7rem;
 		margin-top: -130px;
 	}
 
@@ -4044,14 +4044,14 @@ section#wcb_sponsors-3:after{
 /** smallest sizes **/
 	#header-widget-1 .widget_wcorg_mailchimp_wiget {
 		margin-top: 2rem;
-		border-top: 6px double #ff9505;
+		border-top: 6px double #F26526;
 		padding: 1rem 0rem;
 		padding-left: 5%;
 		padding-right: 5%;
 	}
 	#header-widget-1 .widget_wcorg_mailchimp_wiget h2 {
 		font-size: 1em;
-		color: #ff9505;
+		color: #F26526;
 		margin-bottom: 0;
 
 	}
@@ -4089,12 +4089,12 @@ section#wcb_sponsors-3:after{
 @media (min-width: 48em) {
 	#header-widget-1 .widget_wcorg_mailchimp_wiget {
 		margin-top: 2rem;
-		border-top: 6px double #ff9505;
+		border-top: 6px double #F26526;
 		padding: 1rem 0rem 5rem 0rem;
 	}
 	#header-widget-1 .widget_wcorg_mailchimp_wiget h2 {
 		font-size: 1em;
-		color: #ff9505
+		color: #F26526;
 		margin-bottom: 1em;
 
 	}
