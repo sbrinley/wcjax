@@ -4055,6 +4055,8 @@ section#wcb_sponsors-3:after{
 	#header-widget-1 .widget_wcorg_mailchimp_wiget label,
 	#header-widget-1 .widget_wcorg_mailchimp_wiget input[type="submit"] {
 		font-size: .75em;
+		clear: none;
+		float: left;
 	}
 
 	#header-widget-1 .widget_wcorg_mailchimp_wiget input[type="text"] {
