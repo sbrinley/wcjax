@@ -4048,6 +4048,7 @@ section#wcb_sponsors-3:after{
 	#header-widget-1 .widget_wcorg_mailchimp_wiget h2 {
 		font-size: 1em;
 		color: #ff9505
+		margin-bottom: 0;
 
 	}
 
@@ -4060,5 +4061,21 @@ section#wcb_sponsors-3:after{
 		margin-bottom: 1rem;
 		font-size: .75em;
 		margin-bottom: 0;
+	}
+
+	#header-widget-1 label.wcorg-mailchimp-name,
+	#header-widget-1 label.wcorg-mailchimp-email {
+		clear: none;
+		float: left;
+		width: auto
+		margin-right: 1em;
+	}
+
+	#header-widget-1 .widget_wcorg_mailchimp_wiget input[type="text"],
+	#header-widget-1 .widget_wcorg_mailchimp_wiget input[type="text"] {
+		clear: none;
+		float: left;
+		width: auto
+		margin-right: 2em;
 	}
 }
