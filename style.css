@@ -4067,7 +4067,7 @@ section#wcb_sponsors-3:after{
 	#header-widget-1 label.wcorg-mailchimp-email {
 		clear: none;
 		float: left;
-		width: auto
+		width: auto;
 		margin-right: 1em;
 	}
 
@@ -4075,7 +4075,7 @@ section#wcb_sponsors-3:after{
 	#header-widget-1 .widget_wcorg_mailchimp_wiget input[type="text"] {
 		clear: none;
 		float: left;
-		width: auto
+		width: 30%;
 		margin-right: 2em;
 	}
 }
