@@ -1396,7 +1396,7 @@ pre code {
 @media (max-width:37.4375em) {
 	.main-navigation {
 		background-color: #2d282d;
-		padding-top: 7rem;
+		padding-top: 3rem;
 		margin-top: -130px;
 	}
 
@@ -4104,6 +4104,7 @@ section#wcb_sponsors-3:after{
 		font-size: .75em;
 		clear: none;
 		float: left;
+		margin-top: 0;
 	}
 
 	#header-widget-1 .widget_wcorg_mailchimp_wiget input[type="text"] {
