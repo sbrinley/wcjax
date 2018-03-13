@@ -3958,7 +3958,8 @@ section#wcb_sponsors-3:after{
 	clear: both;
 }
 
-.sponsor-level.prime a.sponsor-logo img {
+.sponsor-level.prime a.sponsor-logo img,
+.sponsor-level.choice a.sponsor-logo img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -3968,8 +3969,6 @@ section#wcb_sponsors-3:after{
 	width: 45%/*!important*/;
 	display: block;
 	float: left;
-	margin-left: auto;
-	margin-right: auto;
 }
 
 .sponsor-level.choice a.sponsor-logo:nth-child(even) {
@@ -3978,8 +3977,6 @@ section#wcb_sponsors-3:after{
 	float: left;
 	clear: both;
 	margin-right: 10%;
-	margin-left: auto;
-	margin-right: auto;
 }
 
 .sponsor-level.select a.sponsor-logo {
