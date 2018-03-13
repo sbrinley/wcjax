@@ -3968,14 +3968,14 @@ section#wcb_sponsors-3:after{
 	width: 45%/*!important*/;
 	display: block;
 	float: left;
-	margin-right: 10%;
 }
 
 .sponsor-level.choice a.sponsor-logo:nth-child(even) {
 	width: 45%/*!important*/;
 	display: block;
 	float: left;
-	clear: right;
+	clear: both;
+	margin-right: 10%;
 }
 
 .sponsor-level.select a.sponsor-logo {
