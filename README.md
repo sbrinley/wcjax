@@ -1,2 +1,2 @@
-# wcjax18
-Resources for WordCamp Jacksonville 2018
+# wcjax19
+Resources for WordCamp Jacksonville 2019
