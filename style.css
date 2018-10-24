@@ -58,11 +58,11 @@
 }
 
 .cc--var-local-copper:after {
-	background-color: #6f943e;
+	background-color: #3ab5ad;
 }
 
 .cc--var-local-copper .cc__variable:after {
-	content: "#6f943e";
+	content: "#3ab5ad";
 }
 
 .cc--var-local-purple:after {
